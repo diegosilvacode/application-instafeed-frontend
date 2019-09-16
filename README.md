@@ -32,6 +32,14 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 ## Tecnologies Used
 
+#### Node Sass
+
+> To allow me to natively compile `.scss` files.
+
+#### React Router Dom
+
+> To manage the application routing system.
+
 My Github profile: https://github.com/coderamos/
 
 My Linkedin profile: https://www.linkedin.com/in/coderamos/
