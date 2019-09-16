@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This project contains the entire frontend of the **[codefolio-instafeed-frontend](https://github.com/coderamos/codefolio-instafeed-frontend)** application. Match other developers.
+This project contains the entire frontend of the **[codefolio-instafeed-frontend](https://github.com/coderamos/codefolio-instafeed-frontend)** application. Share your setup!
 
 This project was create with [Create React App](https://facebook.github.io/create-react-app/). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). To learn React, check out the [React documentation](https://reactjs.org/).
 
