@@ -32,6 +32,10 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 ## Tecnologies Used
 
+#### Axios
+
+> To make queries on external API's.
+
 #### Node Sass
 
 > To allow me to natively compile `.scss` files.

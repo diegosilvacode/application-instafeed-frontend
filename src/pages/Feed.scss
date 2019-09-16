@@ -1,8 +1,8 @@
 #post-list {
-  width: 100%;
-  max-width: 580px;
   margin: 0 auto;
+  max-width: 580px;
   padding: 30px;
+  width: 100%;
 
   article {
     background: #fff;
@@ -14,10 +14,10 @@
     }
 
     header {
-      padding: 20px;
-      display: flex;
       align-items: center;
+      display: flex;
       justify-content: space-between;
+      padding: 20px;
 
       .user-info {
         display: flex;
@@ -26,9 +26,10 @@
         span {
           font-size: 13px;
         }
+
         .place {
-          font-size: 11px;
           color: #666;
+          font-size: 11px;
           margin-top: 3px;
         }
       }
@@ -36,17 +37,21 @@
 
     footer {
       padding: 20px;
+
       .actions {
         margin-bottom: 10px;
+
         img {
           height: 20px;
           margin-right: 10px;
         }
       }
+
       p {
         font-size: 13px;
-        margin-top: 2px;
         line-height: 18px;
+        margin-top: 2px;
+
         span {
           color: #003569;
           display: block;
