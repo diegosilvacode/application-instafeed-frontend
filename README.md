@@ -1,5 +1,7 @@
 # codefolio | INSTAFEED-FRONTEND
 
+![codefolio-instafeed-demo](./public/codefolio-instafeed-demo.png)
+
 ## About This Project
 
 This project contains the entire frontend of the **[codefolio-instafeed-frontend](https://github.com/coderamos/codefolio-instafeed-frontend)** application. Share your setup!
