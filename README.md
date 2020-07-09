@@ -1,14 +1,14 @@
-# codefolio | INSTAFEED-FRONTEND
+# application | INSTAFEED - FRONTEND
 
 ![codefolio-instafeed-demo](./public/codefolio-instafeed-demo.png)
 
 ## About This Project
 
-This project contains the entire frontend of the **[codefolio-instafeed-frontend](https://github.com/coderamos/codefolio-instafeed-frontend)** application. Share your setup!
+This project contains the entire frontend of the **[application-instafeed-frontend](https://github.com/coderamos/application-instafeed-frontend)** application. Share your setup!
 
 This project was create with [Create React App](https://facebook.github.io/create-react-app/). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). To learn React, check out the [React documentation](https://reactjs.org/).
 
-To know the **backend** of this application, visit [codefolio-instafeed-backend](https://github.com/coderamos/codefolio-instafeed-backend).
+To know the **backend** of this application, visit [application-instafeed-backend](https://github.com/coderamos/application-instafeed-backend).
 
 ## Avaliable Scripts
 
@@ -23,7 +23,7 @@ yarn install
 and
 
 ```
-yarn dev
+yarn start
 ```
 
 Learn how to install `yarn` through the [official documentation](https://yarnpkg.com/pt-BR/docs/install).
